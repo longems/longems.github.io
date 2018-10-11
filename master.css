@@ -14,7 +14,7 @@
     background-color: #2f3238;
     color: #f5f5f5;
   }
-  
+
   a {
     color: #1abc89;
   }
@@ -165,4 +165,7 @@
   .light .svg-text {
     fill: rgba(0, 0, 0, 0.1);
   }
-  
+
+  h1{
+    margin: 10px 0px 0px 30px
+  }
