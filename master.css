@@ -78,11 +78,13 @@
   }
   
   .svg-text {
-    fill: #545a64;
+    
+    fill: #fcfdff;
   }
   
   .svg-masked-text {
-    fill: white;
+    text-shadow: 1px 0 #f8faf9,0 1px #f8faf9,0 -1px #f8faf9, -1px 0 #f8faf9;
+    fill: rgb(107, 35, 89);
   }
   
   image {
